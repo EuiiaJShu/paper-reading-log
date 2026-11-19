@@ -9,3 +9,11 @@
 | $\color{#FFB300}{\text{high-resolution}}$ | 高分辨率 |
 | $\color{#FFB300}{\text{state-of-the-art}}$ | 当前最高发展水平 |
 | $\color{#FFB300}{\text{parameter}}$ | 参数 |
+| $\color{#FFB300}{\text{softmax}}$ |  |
+| $\color{#FFB300}{\text{non-saturating}}$ | 非饱和 |
+| $\color{#FFB300}{\text{implementation}}$ |  |
+| $\color{#FFB300}{\text{overfitting}}$ |  |
+| $\color{#FFB300}{\text{employed}}$ |  |
+| $\color{#FFB300}{\text{regularization}}$ |  |
+| $\color{#FFB300}{\text{winning}}$ |  |
+| $\color{#FFB300}{\text{entry}}$ |  |
